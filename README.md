@@ -1,2 +1,2 @@
 # c-program
-c code
+c code.
